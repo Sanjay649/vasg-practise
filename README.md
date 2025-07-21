@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # vasg-practise
 =======
 # yuno
@@ -7,3 +8,6 @@
 =======
 # this is my first repo 
 >>>>>>> 3af9f77 (Update README.md)
+=======
+# this is my first repo connect
+>>>>>>> 04416fc (Update README.md)
