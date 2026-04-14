@@ -11,4 +11,3 @@ with open("student.json", "w") as file:
 
 
 
-git remote add origin https://github.com/yourusername/yourrepo.git
