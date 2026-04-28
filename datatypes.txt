@@ -1,2 +1,0 @@
-python datatypes
-sets tuples dictionaries lists structs 
